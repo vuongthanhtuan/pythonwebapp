@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'webpython'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_d2f26aaeb0af4735b7796b43f2179ae5 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_2266afb5e14c4f23bfe60ec74868b245 }}
